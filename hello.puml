@@ -1,0 +1,4 @@
+@startuml
+Alice -> Wealth : Hello, Wealth!
+Wealth --> Alice : Hey!
+@enduml
